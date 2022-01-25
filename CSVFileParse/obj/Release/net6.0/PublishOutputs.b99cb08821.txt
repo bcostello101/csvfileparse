@@ -1,0 +1,5 @@
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Release\net6.0\publish\CSVFileParse.exe
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Release\net6.0\publish\CSVFileParse.dll
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Release\net6.0\publish\CSVFileParse.deps.json
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Release\net6.0\publish\CSVFileParse.runtimeconfig.json
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Release\net6.0\publish\CSVFileParse.pdb

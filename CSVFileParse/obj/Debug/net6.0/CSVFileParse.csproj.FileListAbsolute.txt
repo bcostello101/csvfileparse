@@ -1,0 +1,15 @@
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Debug\net6.0\CSVFileParse.exe
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Debug\net6.0\CSVFileParse.deps.json
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Debug\net6.0\CSVFileParse.runtimeconfig.json
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Debug\net6.0\CSVFileParse.dll
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Debug\net6.0\ref\CSVFileParse.dll
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\bin\Debug\net6.0\CSVFileParse.pdb
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.csproj.AssemblyReference.cache
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.AssemblyInfoInputs.cache
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.AssemblyInfo.cs
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.csproj.CoreCompileInputs.cache
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.dll
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\ref\CSVFileParse.dll
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.pdb
+C:\Users\sever\OneDrive\Documents\Visual Studio Code\CSVFileParse\obj\Debug\net6.0\CSVFileParse.genruntimeconfig.cache
